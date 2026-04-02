@@ -32,10 +32,6 @@ The goal is to practice **data visualization, KPI tracking, and business insight
 
 ---
 
-## 🔍 Insights from Dashboard
-
----
-
 ## 🛠️ Tools & Technologies Used
 
 * **Power BI** (Data Visualization)
